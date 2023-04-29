@@ -1,1 +1,1 @@
-# Welcom to Michigan Investment Group Quant!
+This repo is for our public readme
