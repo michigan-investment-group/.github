@@ -5,3 +5,4 @@
 - 🔨 We are currently only accepting contributions from club members but feel free to reach out to us with any questions!
 - 💻 New members checkout the [Intro Repo](https://github.com/michigan-investment-group/mig-quant-code-base) to get an idea of contributing to teams and development guidelines
 
+If you're interested in sponsoring our organization please reach out to [mig.board@umich.edu](mailto:mig.board@umich.edu)!
